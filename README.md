@@ -10,13 +10,18 @@ it display the **current system time in real-time**
 **#Features**
 
 -⏰ Display hours, minutes, and seconds
+
 -🔄️ Udate automatically every second
+
 -🎨 Simple and clean design
+
 -🌍 Works in any web browser
 
 **#Used in**
 
 -**HTML** --> Structure of the clock
+
 -**CSS** --> Styling like colors,fonts,layout
+
 -**JavaScript** --> Logic to update and display time
 
